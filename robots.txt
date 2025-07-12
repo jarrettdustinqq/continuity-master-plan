@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jarrettdustinqq.github.io/continuity-master-plan/sitemap.xml

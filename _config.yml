@@ -1,0 +1,7 @@
+title: Continuity Master Plan by Logan Ryker
+description: A public archive of autonomous system protocols, continuity directives, and mission logs.
+theme: minima
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-seo-tag
